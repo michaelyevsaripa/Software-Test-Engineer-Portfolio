@@ -135,5 +135,5 @@ Bachelor of Science in Information Systems
 
 > 💡 **Tip:** Download the PDF version of my resume from this repository for a detailed overview of my professional experience and qualifications.
 
-> 📄 [Download Resume (PDF)](Resume%20%28MichaelYevgenySaripa%29.pdf)
+> 📄 [Download Resume (PDF)](Resume(MichaelYevgenySaripa).pdf)
 
