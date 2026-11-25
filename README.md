@@ -11,8 +11,8 @@ Currently working as a Software Test Engineer, continuously improving my QA skil
 - 🧪 5+ years of experience in **Software Testing and Quality Assurance**
 - 🔍 Skilled in **Manual Testing, Functional Testing, API Testing and Penetration Testing**
 - 💻 Experienced in **Web, Desktop, and Mobile Application Testing**
-- 🔗 Experienced in **API Testing and Penetration Testing using Postman**
-- 📊 Knowledgeable in **SQL, MySQL, and Database Validation**
+- 🔗 Experienced in **API Testing and Penetration Testing using Postman and BurpSuite**
+- 📊 Experienced in **SQL, MySQL, and Database Validation**
 - 🤖 Familiar with **Automation Testing using Cypress and Selenium**
 - 🌐 Experienced in cross-browser testing using **BrowserStack and LambdaTest**
 - 📂 Experienced in creating Test Scenarios, Test Cases, and Bug Reports
@@ -34,13 +34,6 @@ Currently working as a Software Test Engineer, continuously improving my QA skil
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" alt="Trello" title="Trello" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" height="40"/>
-</p>
-
-**Testing Platforms:**
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/browserstack" alt="BrowserStack" title="BrowserStack" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/lambdatest" alt="LambdaTest" title="LambdaTest" width="40" height="40"/>
 </p>
 
 **Database Tools:**
