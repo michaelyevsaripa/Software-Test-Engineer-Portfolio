@@ -9,7 +9,7 @@ Currently working as a Software Test Engineer, continuously improving my QA skil
 ## 📌 About Me
 
 - 🧪 5+ years of experience in **Software Testing and Quality Assurance**
-- 🔍 Skilled in **Manual Testing, Functional Testing, Regression Testing, and Sanity Testing**
+- 🔍 Skilled in **Manual Testing, Functional Testing, API Testing and Penetration Testing**
 - 💻 Experienced in **Web, Desktop, and Mobile Application Testing**
 - 🔗 Experienced in **API Testing and Penetration Testing using Postman**
 - 📊 Knowledgeable in **SQL, MySQL, and Database Validation**
