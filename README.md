@@ -45,7 +45,6 @@ Currently working as a Software Test Engineer, continuously improving my QA skil
 
 **Core QA Skills:**
 
-- Manual Testing
 - Functional Testing
 - Regression Testing
 - Sanity Testing
@@ -60,6 +59,9 @@ Currently working as a Software Test Engineer, continuously improving my QA skil
 - Bug Reporting and Tracking
 - Software Testing Life Cycle (STLC)
 - Agile Methodology
+- Manual & QA Automation
+
+
 
 ---
 
