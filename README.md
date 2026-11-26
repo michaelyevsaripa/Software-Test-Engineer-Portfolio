@@ -2,16 +2,16 @@
 
 # 📄 My Resume
 
-I'm a Software Test Engineer with experience in manual testing, API testing, database validation, mobile testing, and software quality assurance. I enjoy finding bugs, improving software quality, and ensuring applications meet functional and business requirements.
+I'm a Software Test Engineer with experience in functional testing, API testing, database validation, mobile testing, and software quality assurance. I enjoy finding bugs, improving software quality, and ensuring applications meet functional and business requirements.
 
 Currently working as a Software Test Engineer, continuously improving my QA skills and exploring test automation.
 
 ## 📌 About Me
 
 - 🧪 5+ years of experience in **Software Testing and Quality Assurance**
-- 🔍 Skilled in **Manual Testing, Functional Testing, API Testing and Penetration Testing**
+- 🔍 Skilled in **Functional Testing, API Testing and Penetration Testing**
 - 💻 Experienced in **Web, Desktop, and Mobile Application Testing**
-- 🔗 Experienced in **API Testing and Penetration Testing using Postman and BurpSuite**
+- 🔗 Experienced in **Penetration Testing using Postman and BurpSuite**
 - 📊 Experienced in **SQL, MySQL, and Database Validation**
 - 🤖 Familiar with **Automation Testing using Cypress and Selenium**
 - 🌐 Experienced in cross-browser testing using **BrowserStack and LambdaTest**
